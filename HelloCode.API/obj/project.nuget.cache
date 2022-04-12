@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "PBLMrtgmUJgtg6TtC9iwayf0daVXTROsYvaKE2MwZqnGIsbl4T7IpI8yNYXd9rCyc4WMn9AaOca79I11cBhQhw==",
+  "success": true,
+  "projectFilePath": "C:\\Demo8\\ACR\\HelloCode.API\\HelloCode.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gharasim\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\gharasim\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\gharasim\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\gharasim\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\gharasim\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\gharasim\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
